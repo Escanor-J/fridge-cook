@@ -1,0 +1,36 @@
+# 不上传的文件
+冰箱菜谱_创意方案.html
+start.bat
+start.ps1
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Node
+node_modules/
+frontend/dist/
+frontend/node_modules/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 原始数据（不上传）
+data/caipu_1.csv
+
+# 环境配置
+.env
+.env.local

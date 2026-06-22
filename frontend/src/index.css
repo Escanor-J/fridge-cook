@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply text-ink;
+    background-color: #FBF6EC;
+    background-image:
+      radial-gradient(circle at 20% 30%, rgba(232,132,60,.05) 0, transparent 40%),
+      radial-gradient(circle at 80% 70%, rgba(168,52,30,.04) 0, transparent 40%),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 .1 0 0 0 0 .08 0 0 0 0 .05 0 0 0 .04 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    font-family: "Noto Sans SC", system-ui, -apple-system, "PingFang SC",
+      "Microsoft YaHei", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.7;
+  }
+  /* 标题使用衬线字体，呼应温暖厨房美学 */
+  h1, h2, h3 {
+    font-family: "Noto Serif SC", serif;
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 rounded-full font-medium transition-all duration-200;
+  }
+  .btn-primary {
+    @apply btn bg-wine-500 text-cream-50 hover:bg-wine-600 shadow-warm hover:shadow-warm-lg hover:-translate-y-0.5;
+  }
+  .btn-secondary {
+    @apply btn bg-cream-50 text-ink border border-line hover:bg-cream-100;
+  }
+  .btn-ghost {
+    @apply btn bg-transparent text-ink border border-ink hover:bg-ink hover:text-cream-50;
+  }
+  .badge {
+    @apply inline-flex items-center px-2 py-0.5 rounded-md text-xs font-medium;
+  }
+  .card {
+    @apply bg-cream-50 rounded-2xl border border-line overflow-hidden transition-all duration-300;
+  }
+  .card-hover {
+    @apply hover:-translate-y-1.5 hover:shadow-paper-lg hover:border-wine-400;
+  }
+  .input {
+    @apply w-full px-3 py-2 bg-cream-50 border border-line rounded-lg text-ink placeholder:text-ink-muted/60
+      focus:outline-none focus:ring-2 focus:ring-wine-400/40 focus:border-wine-400 transition-colors;
+  }
+  /* 章节小标签（参考创意方案的 section-num 风格） */
+  .section-tag {
+    @apply inline-block font-italic italic text-sm text-pumpkin-500 tracking-wider uppercase mb-2;
+  }
+  /* 难度徽章配色（呼应创意方案 diff-0/1/2） */
+  .diff-0 { @apply bg-moss-500/10 text-moss-500; }
+  .diff-1 { @apply bg-pumpkin-500/15 text-pumpkin-600; }
+  .diff-2 { @apply bg-wine-500/10 text-wine-600; }
+}
+
+@layer utilities {
+  /* 自定义滚动条（呼应纸张质感） */
+  .scroll-warm::-webkit-scrollbar { width: 6px; height: 6px; }
+  .scroll-warm::-webkit-scrollbar-track { background: transparent; }
+  .scroll-warm::-webkit-scrollbar-thumb {
+    background: #D9CDB5;
+    border-radius: 3px;
+  }
+  .scroll-warm::-webkit-scrollbar-thumb:hover { background: #C9A24B; }
+}

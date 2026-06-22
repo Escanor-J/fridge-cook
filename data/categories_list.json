@@ -1,0 +1,682 @@
+[
+  {
+    "category": "午餐",
+    "count": 1032,
+    "is_main": 1
+  },
+  {
+    "category": "家常菜",
+    "count": 714,
+    "is_main": 1
+  },
+  {
+    "category": "下饭菜",
+    "count": 491,
+    "is_main": 1
+  },
+  {
+    "category": "朋友聚餐",
+    "count": 456,
+    "is_main": 1
+  },
+  {
+    "category": "肉类",
+    "count": 354,
+    "is_main": 1
+  },
+  {
+    "category": "炒",
+    "count": 187,
+    "is_main": 1
+  },
+  {
+    "category": "一家三口",
+    "count": 182,
+    "is_main": 1
+  },
+  {
+    "category": "禽类",
+    "count": 169,
+    "is_main": 1
+  },
+  {
+    "category": "水产",
+    "count": 162,
+    "is_main": 1
+  },
+  {
+    "category": "晚餐",
+    "count": 136,
+    "is_main": 1
+  },
+  {
+    "category": "凉菜",
+    "count": 135,
+    "is_main": 1
+  },
+  {
+    "category": "下酒菜",
+    "count": 130,
+    "is_main": 1
+  },
+  {
+    "category": "海鲜",
+    "count": 113,
+    "is_main": 1
+  },
+  {
+    "category": "香",
+    "count": 101,
+    "is_main": 1
+  },
+  {
+    "category": "单身食谱",
+    "count": 76,
+    "is_main": 1
+  },
+  {
+    "category": "豆制品",
+    "count": 71,
+    "is_main": 1
+  },
+  {
+    "category": "烤箱食谱",
+    "count": 68,
+    "is_main": 1
+  },
+  {
+    "category": "煲汤",
+    "count": 63,
+    "is_main": 1
+  },
+  {
+    "category": "素食主义",
+    "count": 62,
+    "is_main": 1
+  },
+  {
+    "category": "川菜",
+    "count": 50,
+    "is_main": 1
+  },
+  {
+    "category": "蛋类",
+    "count": 48,
+    "is_main": 1
+  },
+  {
+    "category": "煮",
+    "count": 41,
+    "is_main": 1
+  },
+  {
+    "category": "幼儿食谱",
+    "count": 32,
+    "is_main": 1
+  },
+  {
+    "category": "主食",
+    "count": 31,
+    "is_main": 1
+  },
+  {
+    "category": "东北菜",
+    "count": 26,
+    "is_main": 1
+  },
+  {
+    "category": "西餐",
+    "count": 26,
+    "is_main": 1
+  },
+  {
+    "category": "炖",
+    "count": 23,
+    "is_main": 1
+  },
+  {
+    "category": "小吃",
+    "count": 19,
+    "is_main": 1
+  },
+  {
+    "category": "拌",
+    "count": 16,
+    "is_main": 1
+  },
+  {
+    "category": "煎",
+    "count": 16,
+    "is_main": 1
+  },
+  {
+    "category": "健康食谱",
+    "count": 15,
+    "is_main": 1
+  },
+  {
+    "category": "蒸",
+    "count": 15,
+    "is_main": 1
+  },
+  {
+    "category": "清淡",
+    "count": 14,
+    "is_main": 1
+  },
+  {
+    "category": "爽口",
+    "count": 14,
+    "is_main": 1
+  },
+  {
+    "category": "炸",
+    "count": 13,
+    "is_main": 1
+  },
+  {
+    "category": "秋冬进补",
+    "count": 13,
+    "is_main": 1
+  },
+  {
+    "category": "年夜饭",
+    "count": 12,
+    "is_main": 1
+  },
+  {
+    "category": "红烧",
+    "count": 12,
+    "is_main": 1
+  },
+  {
+    "category": "懒人食谱",
+    "count": 12,
+    "is_main": 0
+  },
+  {
+    "category": "微波炉食谱",
+    "count": 11,
+    "is_main": 1
+  },
+  {
+    "category": "烤",
+    "count": 11,
+    "is_main": 1
+  },
+  {
+    "category": "驱寒暖身",
+    "count": 11,
+    "is_main": 1
+  },
+  {
+    "category": "鲜",
+    "count": 10,
+    "is_main": 1
+  },
+  {
+    "category": "咸",
+    "count": 9,
+    "is_main": 1
+  },
+  {
+    "category": "创意菜",
+    "count": 9,
+    "is_main": 0
+  },
+  {
+    "category": "孕妇食谱",
+    "count": 9,
+    "is_main": 0
+  },
+  {
+    "category": "私家菜",
+    "count": 8,
+    "is_main": 1
+  },
+  {
+    "category": "粤菜",
+    "count": 8,
+    "is_main": 1
+  },
+  {
+    "category": "儿童",
+    "count": 7,
+    "is_main": 0
+  },
+  {
+    "category": "零食",
+    "count": 7,
+    "is_main": 0
+  },
+  {
+    "category": "下午茶",
+    "count": 7,
+    "is_main": 1
+  },
+  {
+    "category": "明目",
+    "count": 7,
+    "is_main": 0
+  },
+  {
+    "category": "酸甜",
+    "count": 7,
+    "is_main": 1
+  },
+  {
+    "category": "老年食谱",
+    "count": 7,
+    "is_main": 1
+  },
+  {
+    "category": "电饼铛食谱",
+    "count": 6,
+    "is_main": 1
+  },
+  {
+    "category": "工作便当",
+    "count": 6,
+    "is_main": 0
+  },
+  {
+    "category": "二人世界",
+    "count": 6,
+    "is_main": 1
+  },
+  {
+    "category": "焖",
+    "count": 6,
+    "is_main": 1
+  },
+  {
+    "category": "韩国料理",
+    "count": 5,
+    "is_main": 0
+  },
+  {
+    "category": "鲁菜",
+    "count": 5,
+    "is_main": 1
+  },
+  {
+    "category": "浙菜",
+    "count": 5,
+    "is_main": 1
+  },
+  {
+    "category": "甜",
+    "count": 5,
+    "is_main": 1
+  },
+  {
+    "category": "面条",
+    "count": 4,
+    "is_main": 0
+  },
+  {
+    "category": "减肥食谱",
+    "count": 4,
+    "is_main": 1
+  },
+  {
+    "category": "酱香",
+    "count": 4,
+    "is_main": 1
+  },
+  {
+    "category": "饼",
+    "count": 4,
+    "is_main": 0
+  },
+  {
+    "category": "香辣",
+    "count": 4,
+    "is_main": 1
+  },
+  {
+    "category": "粥饭",
+    "count": 4,
+    "is_main": 0
+  },
+  {
+    "category": "辣",
+    "count": 4,
+    "is_main": 1
+  },
+  {
+    "category": "焖饭",
+    "count": 3,
+    "is_main": 1
+  },
+  {
+    "category": "京菜",
+    "count": 3,
+    "is_main": 1
+  },
+  {
+    "category": "苏菜",
+    "count": 3,
+    "is_main": 1
+  },
+  {
+    "category": "抗癌",
+    "count": 3,
+    "is_main": 0
+  },
+  {
+    "category": "上海菜",
+    "count": 3,
+    "is_main": 1
+  },
+  {
+    "category": "产妇食谱",
+    "count": 3,
+    "is_main": 0
+  },
+  {
+    "category": "饺子",
+    "count": 3,
+    "is_main": 0
+  },
+  {
+    "category": "户外野炊",
+    "count": 3,
+    "is_main": 0
+  },
+  {
+    "category": "酸",
+    "count": 3,
+    "is_main": 1
+  },
+  {
+    "category": "豆浆机食谱",
+    "count": 3,
+    "is_main": 1
+  },
+  {
+    "category": "蒜香",
+    "count": 3,
+    "is_main": 1
+  },
+  {
+    "category": "盖浇饭",
+    "count": 2,
+    "is_main": 0
+  },
+  {
+    "category": "饮品",
+    "count": 2,
+    "is_main": 0
+  },
+  {
+    "category": "湘菜",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "降血脂",
+    "count": 2,
+    "is_main": 0
+  },
+  {
+    "category": "宵夜",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "淮扬菜",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "烩",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "酸辣",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "腌",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "补钙食谱",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "焗",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "腹泻",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "润肠通便",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "锅贴",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "微辣",
+    "count": 2,
+    "is_main": 1
+  },
+  {
+    "category": "粥",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "电饭煲美食",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "奶香",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "紧致肌肤",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "祛痘祛斑",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "糖醋",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "降血糖",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "家常味",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "法国菜",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "贫血",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "新疆菜",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "鄂菜",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "西北菜",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "焗饭",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "火锅",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "咸鲜",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "婴儿（10-12个月）",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "延缓衰老",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "对抗雾霾",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "椒盐",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "高压锅食谱",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "卤",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "鱼香",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "包子",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "润肺止咳",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "麻辣",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "孜然",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "补碘食谱",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "防辐射",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "米粉",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "煲",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "提高免疫",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "河粉",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "黑椒",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "烘焙",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "煲仔饭",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "干煸",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "馄饨",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "炒饭",
+    "count": 1,
+    "is_main": 0
+  },
+  {
+    "category": "养心",
+    "count": 1,
+    "is_main": 1
+  },
+  {
+    "category": "咖喱",
+    "count": 1,
+    "is_main": 1
+  }
+]
