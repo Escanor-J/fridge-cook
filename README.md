@@ -29,14 +29,7 @@
 
 ## 运行效果图
 
-### 首页
 ![首页](screenshots/homepage.png)
-
-### 冰箱模式
-![冰箱模式](screenshots/fridge-mode.png)
-
-### 菜谱详情
-![菜谱详情](screenshots/recipe-detail.png)
 
 ## 快速启动
 
